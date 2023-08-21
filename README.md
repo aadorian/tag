@@ -15,7 +15,4 @@ https://git-scm.com/docs/git-blame
 https://github.com/aadorian/tag/blame/main/README.md#L1-L4
 
 
-<iframe
-  src="https://github.com/aadorian/tag/blame/main/README.md#L1-L4"
-  allowfullscreen="" loading="lazy"
-></iframe>
+[Web] ("https://raw.githubusercontent.com/aadorian/tag/main/README.md")
