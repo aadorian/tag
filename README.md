@@ -12,4 +12,4 @@ https://github.com/aadorian/tag/blob/aeb1663e9f93a0199ccc60b108c44c4639571c8b/RE
 ```
 https://git-scm.com/docs/git-blame
 
-github.com/aadorian/tag/blame/main/README.md?plain=2
+github.com/aadorian/tag/blob/blame/aeb1663e9f93a0199ccc60b108c44c4639571c8b/README.md?plain=1
