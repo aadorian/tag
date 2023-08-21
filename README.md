@@ -17,5 +17,5 @@ https://github.com/aadorian/tag/blame/main/README.md#L1-L4
 
 <iframe
   src="https://github.com/aadorian/tag/blame/main/README.md#L1-L4"
-  style="width:100%; height:300px;"
+  allowfullscreen="" loading="lazy"
 ></iframe>
